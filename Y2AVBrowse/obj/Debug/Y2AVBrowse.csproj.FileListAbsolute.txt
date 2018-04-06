@@ -1,0 +1,12 @@
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\bin\Debug\Y2AVBrowse.exe
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\bin\Debug\Y2AVBrowse.pdb
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\obj\Debug\Y2AVBrowse.Form1.resources
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\obj\Debug\Y2AVBrowse.Properties.Resources.resources
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\obj\Debug\Y2AVBrowse.csproj.GenerateResource.Cache
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\obj\Debug\Y2AVBrowse.exe
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\obj\Debug\Y2AVBrowse.pdb
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\bin\Debug\HtmlAgilityPack.dll
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\bin\Debug\HtmlAgilityPack.pdb
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\bin\Debug\HtmlAgilityPack.xml
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\obj\Debug\Y2AVBrowse.Form2.resources
+F:\VsProject\Y2AVBrowse\Y2AVBrowse\obj\Debug\Y2AVBrowse.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>F:\VsProject\Y2AVBrowse\Y2AVBrowse\Form1.cs</string>
+      <string>F:\VsProject\Y2AVBrowse\Y2AVBrowse\Form1.cs</string>
+      <string>f:\vsproject\y2avbrowse\y2avbrowse\form1.designer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>f:\vsproject\y2avbrowse\y2avbrowse\httputil.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>f:\vsproject\y2avbrowse\y2avbrowse\form2.cs</string>
+      <string>f:\vsproject\y2avbrowse\y2avbrowse\form2.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
